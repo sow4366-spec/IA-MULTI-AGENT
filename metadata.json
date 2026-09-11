@@ -1,0 +1,6 @@
+{
+  "name": "AI GODMODE ENGINE",
+  "description": "Moteur IA futuriste haute performance avec Next.js 14, OpenAI GPT-4o-mini, Prisma ORM et interface Dark Glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
